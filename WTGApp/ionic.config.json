@@ -1,0 +1,7 @@
+{
+  "name": "WTGApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
